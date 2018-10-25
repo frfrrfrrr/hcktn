@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+bandicam*
 
 # C extensions
 *.so
+*.mp4
 
 # Distribution / packaging
 .Python
