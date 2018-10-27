@@ -7,6 +7,9 @@ bandicam*
 # C extensions
 *.so
 *.mp4
+*.png
+*.tiff
+*.jpg
 
 # Distribution / packaging
 .Python
